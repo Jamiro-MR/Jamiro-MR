@@ -2,7 +2,8 @@
 
 **"A learning student"**
 
-I'm a mexican student currently studying, and really interested in learning how to create programs from the ground up. Currently I stash my coding practices and other school-related things here, and I hope to achieve great things one day.
+I'm a mexican student currently studying, and really interested in learning how to create programs from the ground up.
+Currently I stash my coding practices and other school-related things here, and I hope to achieve great things one day.
 
 <!-- Social Media -->
 <p align="center">
