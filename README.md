@@ -32,5 +32,5 @@ Currently i'm stashin my practices and school-related projects here. I hope I ca
   <a href="#"><img alt="Jamiro-MR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiro-MR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </details>
 
-<!-- activity panel -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jamiro-MR&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## ☕ activity panel
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jamiro-MR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
