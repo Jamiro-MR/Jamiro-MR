@@ -11,6 +11,8 @@ Currently i'm stashin my practices and school-related projects here. I hope I ca
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/jamiro_yoh/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/braulio-roberto-gutiérrez-bejarano-81211728a/"><img width="38px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=512&id=13930&format=png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!-- end of social media tab -->
 
