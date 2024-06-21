@@ -2,7 +2,7 @@
 
 **"Student/Novice/Learning"**
 
-Mexican student currently learning, currently interested in web design and gamedev.
+Mexican student currently learning, interested in web design and gamedev.
 
 <!-- Social Media -->
 <p align="center">
