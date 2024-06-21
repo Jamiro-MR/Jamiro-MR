@@ -2,8 +2,7 @@
 
 **"Student/Novice/Learning"**
 
-I'm a mexican student currently in Uni. I'm very interested in learning programming and I want to be able to build programs from the ground up.
-Currently i'm stashin my practices and school-related projects here. I hope I can achieve many great things in the future!.
+Mexican student currently learning, currently interested in web design and gamedev.
 
 <!-- Social Media -->
 <p align="center">
