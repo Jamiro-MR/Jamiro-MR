@@ -35,8 +35,3 @@ Mexican student currently learning, interested in web design and gamedev.
 <p align="center" class="my-4">
   <a href="#"><img alt="Jamiro-MR's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jamiro-MR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" class="m-2 shadow-lg rounded-lg"/></a>
   <a href="#"><img alt="Jamiro-MR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiro-MR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" class="m-2 shadow-lg rounded-lg"/></a>
-</p>
-    document.getElementById("ascii-animation").textContent = frames[currentFrame];
-    currentFrame = (currentFrame + 1) % frames.length;
-  }, 1000);
-</script>
