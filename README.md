@@ -1,4 +1,4 @@
-# ⚙️ Jamiro Yoh
+# ⚙️ Jamiro Yoh ⚙️ 
 
 **"Student/Novice/Learning"**
 
