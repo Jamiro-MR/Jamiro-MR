@@ -1,34 +1,42 @@
-# ⚙️Jamiro Yoh
+# ⚙️ Jamiro Yoh
 
 **"Student/Novice/Learning"**
 
 Mexican student currently learning, interested in web design and gamedev.
 
-<!-- Social Media -->
-<p align="center">
-  <a href="https://twitter.com/YohJamiro"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/></a>
+## 🌐 Connect with Me
+<p align="center" class="my-4">
+  <a href="https://twitter.com/YohJamiro"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" class="hover:scale-110 transition-transform duration-300"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/jamiro_yoh/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
+  <a href="https://www.instagram.com/jamiro_yoh/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" class="hover:scale-110 transition-transform duration-300"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/braulio-roberto-gutiérrez-bejarano-81211728a/"><img width="38px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=512&id=13930&format=png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/braulio-roberto-gutiérrez-bejarano-81211728a/"><img width="38px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=512&id=13930&format=png" class="hover:scale-110 transition-transform duration-300"/></a>
 </p>
-<!-- end of social media tab -->
 
-<!-- icons section -->
-<p align="center">
-  <a href="https://github.com/Jamiro-MR?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jamiro-MR?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Jamiro-MR?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jamiro-MR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+## 🚀 About Me
+
+- 🌍 From Manzanillo, Colima, Mexico
+- 🎓 Software Engineering student at the University of Colima
+- 🌐 Interested in web design and game development
+- 🛠️ Currently working on a tourism blog project to promote local businesses
+
+## 🔧 Skills and Technologies
+<p align="center" class="my-4">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="m-2"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="m-2"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="m-2"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" class="m-2"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" class="m-2"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" class="m-2"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" class="m-2"/>
 </p>
-<!-- endof icon section-->
 
-## 📊 Github stats
-<details>
-  <!-- profile stats -->
-  <summary>💻 GitHub Profile Stats</summary>
-    <a href="#"><img alt="Jamiro-MR's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jamiro-MR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <!-- most used languages -->
-  <a href="#"><img alt="Jamiro-MR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiro-MR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-</details>
+## 📈 GitHub Stats
+<p align="center" class="my-4">
+  <a href="#"><img alt="Jamiro-MR's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jamiro-MR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" class="m-2 shadow-lg rounded-lg"/></a>
+  <a href="#"><img alt="Jamiro-MR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamiro-MR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" class="m-2 shadow-lg rounded-lg"/></a>
+</p>
+    document.getElementById("ascii-animation").textContent = frames[currentFrame];
+    currentFrame = (currentFrame + 1) % frames.length;
+  }, 1000);
+</script>
