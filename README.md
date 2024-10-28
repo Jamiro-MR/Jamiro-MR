@@ -6,10 +6,6 @@ Mexican student currently learning, interested in web design and gamedev.
 
 ## 🌐 Connect with Me
 <p align="center" class="my-4">
-  <a href="https://twitter.com/YohJamiro"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" class="hover:scale-110 transition-transform duration-300"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/jamiro_yoh/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" class="hover:scale-110 transition-transform duration-300"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/braulio-roberto-gutiérrez-bejarano-81211728a/"><img width="38px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=512&id=13930&format=png" class="hover:scale-110 transition-transform duration-300"/></a>
 </p>
 
