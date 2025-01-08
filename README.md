@@ -16,16 +16,12 @@
   🌐 <strong>Interests:</strong> Web Design & Game Development<br />
 </p>
 
----
-
 ## 📌 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/braulio-roberto-gutiérrez-bejarano-81211728a/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 ## 🔧 Skills and Technologies
 <p align="center">
@@ -38,19 +34,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Jamiro-MR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamiro-MR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=jupyter%20notebook" height="192px" alt="Top Languages" />
 </p>
 
----
-
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jamiro-MR&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
-
----
