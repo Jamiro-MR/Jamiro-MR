@@ -6,7 +6,7 @@
 <div align="center">
   <h1 style="font-size: 2.5rem; margin: 0;">⚙️ Jamiro Yoh ⚙️</h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F85D7F&center=true&width=435&lines=Student+%7C+Novice+%7C+Learning;Passionate+Web+Designer;Aspiring+Game+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F85D7F&center=true&width=435&lines=Student+%7C+Novice+%7C+Learning;Passionate+Web+Designer;Aspiring+Developer" alt="Typing SVG" />
   </p>
 </div>
 
